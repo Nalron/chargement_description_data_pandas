@@ -1,8 +1,0 @@
-# Méthode .head(): Afficher les 5 premières lignes du DF
-df.head()
-
-# Ou bien afficher n lignes
-df.head(n)
-
-#affichage des dernières valeurs
-print(df['column'].tail())
